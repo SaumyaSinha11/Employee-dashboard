@@ -1,0 +1,18 @@
+
+.icon-btn:hover {
+    background-color: rgba(0, 0, 0, 0.1); 
+    transform: scale(1.1);
+    transition: all 0.3s ease;  
+  }
+  
+
+  .icon-btn:hover .text-warning {
+    color: rgb(116, 116, 23); 
+  }
+  
+  .icon-btn:hover .text-danger {
+    color: rgb(218, 120, 120); 
+  }
+  .custom-bg-dark {
+    background-color: #b4b6b7 !important; 
+  }  
